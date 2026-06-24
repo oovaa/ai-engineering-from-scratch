@@ -63,3 +63,17 @@ catalog.json
 site/sitemap.xml
 site/llms.txt
 site/build-meta.js
+
+
+
+
+*.bin
+*.safetensors
+*.pt
+*.onnx
+data/*.parquet
+data/*.csv
+models/
+
+
+
